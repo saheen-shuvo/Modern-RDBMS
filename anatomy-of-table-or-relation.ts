@@ -1,0 +1,3 @@
+//***Anatomy of Table or Relation***
+
+//A table, also known as a relation in the context of databases, is a structured collection of data organized into rows and columns. Each row represents a unique record or entry, while each column represents a specific attribute or field of the data. The intersection of a row and column is called a cell, which contains the actual data value. Tables are fundamental components of relational databases and are used to store and manage data efficiently. They allow for easy retrieval, manipulation, and analysis of data through various operations such as querying, filtering, and sorting.
